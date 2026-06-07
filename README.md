@@ -178,9 +178,6 @@ The system successfully:
 * Predicts congestion levels using Machine Learning
 * Provides explainable AI insights
 * Visualizes traffic patterns interactively
-  ![Traffic Trend](assets/screenshots/traffic_trend.png)
-  ![Confusion Matrix](assets/screenshots/confusion_matrix.png)
-  ![Correlation Heatmap](assets/screenshots/correlation_heatmap.png)
 * Generates professional PDF reports
 
 ---
