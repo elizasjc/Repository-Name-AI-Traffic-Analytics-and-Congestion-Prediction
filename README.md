@@ -178,7 +178,35 @@ The system successfully:
 * Predicts congestion levels using Machine Learning
 * Provides explainable AI insights
 * Visualizes traffic patterns interactively
+  ![Traffic Trend](assets/screenshots/traffic_trend.png)
+  ![Confusion Matrix](assets/screenshots/confusion_matrix.png)
+  ![Correlation Heatmap](assets/screenshots/correlation_heatmap.png)
 * Generates professional PDF reports
+
+---
+
+## 🚦 Streamlit Demo
+
+![Streamlit Demo](assets/demo.gif)
+
+---
+
+## 📊 Project Screenshots
+
+### Vehicle Detection
+![Detection](assets/screenshots/vehicle_detect.png)
+
+### Prediction Output
+![Predicted Traffic Density](assets/screenshots/Predict_out.png)
+
+---
+
+## Visualizations
+![Traffic Trend](assets/screenshots/traffic_trend.png)
+
+![Confusion Matrix](assets/screenshots/confusion_matrix.png)
+
+![Correlation Heatmap](assets/screenshots/correlation_heatmap.png)
 
 ---
 
